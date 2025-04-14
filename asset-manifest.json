@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maheraqib/first-react-app/static/css/main.40df3699.css",
+    "main.js": "/maheraqib/first-react-app/static/js/main.88c9ced0.js",
+    "static/js/453.ed3810f9.chunk.js": "/maheraqib/first-react-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/maheraqib/first-react-app/index.html",
+    "main.40df3699.css.map": "/maheraqib/first-react-app/static/css/main.40df3699.css.map",
+    "main.88c9ced0.js.map": "/maheraqib/first-react-app/static/js/main.88c9ced0.js.map",
+    "453.ed3810f9.chunk.js.map": "/maheraqib/first-react-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40df3699.css",
+    "static/js/main.88c9ced0.js"
+  ]
+}
